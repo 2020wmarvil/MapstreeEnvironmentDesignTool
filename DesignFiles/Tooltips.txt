@@ -1,0 +1,31 @@
+This text file is intended to give copy & paste documentation for the tooltips of any/all interactable UI.
+My assumption at the time of writing this is when you mouse over any UI these will pop-up
+
+
+
+**Level Editor**
+________________
+
+BUTTONS
+
+* "Build" - 'Once you have shapes on  the grid, press this to generate them in 3D.'
+
+* "Delete" - 'Click on a shape within the grid, then press this to remove it. Next Build it will dissapear.'
+
+* "Settings" - 'Adjust the scale, rules, and more by clicking this."
+
+* "Info" - 'For further instructions on how to use this tool, click this to see documentation and tips.'
+
+ICONS
+
+* [World Origin] - 'This is the [0,0,0] transform of the world.'
+
+* [Square Icon] - 'Represents a 3-Story, 4-corner room with cardinal doorways.'
+
+* [Circle Icon] - 'Represents a 3-Story, Circular room with cardinal doorways.'
+
+* [Hexagon Icon] - 'Represents a 3-Story, 6-corner room with cardinal doorways.'
+
+* [Line Vertical] - 'Represents a 1-story, Vertical hallway with 2 entrances/exits.'
+
+* [Line Horizontal] - 'Represents a 1-story, Horizontal hallway with 2 entrances/exits.'
